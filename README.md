@@ -1,4 +1,3 @@
-# traffic_light
 
 ### Introduction 
 traffic is one of the most expensive and common external influences of the vehicle. In Israel drivers spend millions of hours of work and leisure a year in traffic jams, which harms social welfare, social capital and economy, at a cost of billions of shekels per year. The way it will be possible to reduce traffic is by designing a traffic light system which will be both stable and safe for cars and pedestrians and also for visually impaired people. Traffic lights are one of the important means for improving traffic flow and maintaining a safe and proper traffic regime.
