@@ -37,6 +37,6 @@ The system was implements using various software
 
 ### Summary 
 
-This project, a safe and accessible traffic light junction. Was designed for the pedestrians in general and the visually impaired in particular.
+This project a safe and accessible traffic light junction, was designed for the pedestrians in general and the visually impaired in particular.
 The system was logically designed using Arduino controller. The implementation using Arduino technology is complex and mentally challenging work, and it showed when the circuits were summed up as one system.
 
